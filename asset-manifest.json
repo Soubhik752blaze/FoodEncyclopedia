@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FoodEncyclopedia/static/css/main.4b7ce5ed.css",
+    "main.js": "/FoodEncyclopedia/static/js/main.fa3ef7fa.js",
+    "index.html": "/FoodEncyclopedia/index.html",
+    "main.4b7ce5ed.css.map": "/FoodEncyclopedia/static/css/main.4b7ce5ed.css.map",
+    "main.fa3ef7fa.js.map": "/FoodEncyclopedia/static/js/main.fa3ef7fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b7ce5ed.css",
+    "static/js/main.fa3ef7fa.js"
+  ]
+}
